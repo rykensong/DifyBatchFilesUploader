@@ -15,6 +15,7 @@ This is a tool for uploading files to different LLM (Large Language Model) servi
 
 1. Ensure Node.js (version 14 or higher) is installed.
 2. Ensure npm (Node Package Manager) is installed.
+3. Add your related configurations for the related API in `config.json`
 
 ### Dependency Installation
 
