@@ -1,0 +1,17 @@
+{
+  "folderPath": "D:\\Doc\\Integrations",
+  "dify": {
+    "apiUrl": "<Your Dify API URL>",
+    "apiKey": "<Your API Key>",
+    "datasetId": "<Your Dataset ID>",
+    "supportedExtensions": [".txt", ".md", ".pdf"]
+  },
+  "anythingLLM": {
+    "apiUrl": "<Your AnythingLLM API URL>",
+    "apiKey": "<Your API Key>",
+    "fileTypes": {
+      "text/plain": [".txt", ".md"],
+      "application/pdf": [".pdf"]
+    }
+  }
+}
