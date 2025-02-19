@@ -25,12 +25,6 @@ npm install
 ```
 
 ## Project Running Guide
-### Build the Project
-
-Run the following command in the project root directory to build the project:
-```bash
-npm run build
-```
 
 ### Send Files to Dify Service
 
