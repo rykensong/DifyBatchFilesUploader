@@ -1,5 +1,5 @@
 {
-  "folderPath": "D:\\Doc\\Integrations",
+  "folderPath": "<Your Folder Path for files to be processed>",
   "dify": {
     "apiUrl": "<Your Dify API URL>",
     "apiKey": "<Your API Key>",
