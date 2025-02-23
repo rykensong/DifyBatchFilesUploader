@@ -1,12 +1,14 @@
 {
   "folderPath": "<Your Folder Path for files to be processed>",
   "dify": {
+    "enabled": false,
     "apiUrl": "<Your Dify API URL>",
     "apiKey": "<Your API Key>",
     "datasetId": "<Your Dataset ID>",
     "supportedExtensions": [".txt", ".md", ".pdf"]
   },
   "anythingLLM": {
+    "enabled": false,
     "apiUrl": "<Your AnythingLLM API URL>",
     "apiKey": "<Your API Key>",
     "fileTypes": {

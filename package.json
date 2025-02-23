@@ -2,7 +2,8 @@
   "name": "wiki-uploader",
   "version": "1.0.0",
   "dependencies": {
-    "axios": "^1.6.2"
+    "axios": "^1.6.2",
+    "form-data": "^4.0.0"
   },
   "devDependencies": {
     "@types/jest": "^29.5.14",
@@ -14,7 +15,7 @@
   },
   "scripts": {
     "build": "tsc",
-    "sendToDify": "npm run build && ts-node src/sendToDify.ts",
-    "sendToAnythingLLM": "npm run build && ts-node src/sendToAnythingLLM.ts"
+    "start": "npm run build && ts-node src/index.ts",
+    "dev": "ts-node src/index.ts"
   }
 }
